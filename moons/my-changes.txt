@@ -1,0 +1,17 @@
+commit a80536c0e55bea270c260d56df8ff2d2d4331a53
+Author: Alda Saldan <alda.saldan@qimrberghofer.edu.au>
+Date:   Fri Jun 8 09:22:40 2018 +1000
+
+    add some notes for a friend
+
+commit 8456c4117327eb7cf0b47d6b3a08b2dc43ad2284
+Author: Alda Saldan <alda.saldan@qimrberghofer.edu.au>
+Date:   Fri Jun 8 09:18:57 2018 +1000
+
+    add some concerns about Mars
+
+commit ccab703f3bbe3d5d554d63c2e7cb02e95654f743
+Author: Alda Saldan <alda.saldan@qimrberghofer.edu.au>
+Date:   Fri Jun 8 09:06:38 2018 +1000
+
+    Start notes on Mars excursion
